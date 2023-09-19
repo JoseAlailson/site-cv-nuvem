@@ -1,0 +1,7 @@
+#cards .card {
+ display: flex;
+ align-items: stretch; 
+ height: 100%;  
+}
+
+
